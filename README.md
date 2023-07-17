@@ -6,6 +6,7 @@ This is a collection of tutorials on the use of various machine learning tools.
 
 
 - [Wandb_Tutorial](https://github.com/OpenRL-Lab/Wandb_Tutorial): Learn how to use Wandb.
+- [Reinforcement Learning Tutorial](https://github.com/OpenRL-Lab/RL_Tutorial): Figure out what is reinforcement learning.
 - [PyTorch_Tutorial](https://github.com/OpenRL-Lab/PyTorch_Tutorial): Learn how to use PyTorch.
 - [Ray_Tutorial](https://github.com/OpenRL-Lab/Ray_Tutorial): Learn how to use Ray.
 
